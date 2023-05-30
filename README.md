@@ -31,13 +31,13 @@ Link to Video: [link]((https://drive.google.com/drive/folders/1NpDayWleyMCoBluBu
 
 This PR implements the SpaceX Data React app, fulfilling the requirements of the assignment given by the company. The key features and changes included in this PR are:
 
-###Implemented the landing page layout using React and CSS.
+#Implemented the landing page layout using React and CSS.
 
-###Fetched rockets data from the SpaceX API and displayed it in a grid format.
+#Fetched rockets data from the SpaceX API and displayed it in a grid format.
 
-###Added search functionality to allow users to filter rockets by name.
+#Added search functionality to allow users to filter rockets by name.
 
-###Updated the responsive design of the landing page components to ensure compatibility across different screen sizes.
+#Updated the responsive design of the landing page components to ensure compatibility across different screen sizes.
 
 
-###Thanks
+#Thanks
