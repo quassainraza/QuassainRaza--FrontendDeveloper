@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# Getting Started with SpaceX React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+#Steps to Run This Assignment
 
-### `npm start`
+1- Download the Xampp from [here](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.28/xampp-windows-x64-8.0.28-0-VS16-installer.exe/download)
 
-Runs the app in the development mode.\
+2- Install the Xampp
+
+3-Put the PHP [file](https://drive.google.com/drive/folders/1NpDayWleyMCoBluBuFV9lpn45B6jFRtH?usp=sharing) with the name of "spacex-api.php" in htdocs.
+
+4- Congrats!! PHP enviornment for fetching the data is setup successfully!!
+
+5-Now Run the Xampp and turn on the Apache Server.
+
+6-Download this project and Open in VsCode and open terminal.
+
+7-cd to project folder and run "npm start" and Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+8-Hurray!! SpaceX Rockets Data is fetched and displayed into ReactApp..
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+-----------------------------------------------------------------------------
 
-### `npm run build`
+DESCRIPTION:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Link to Video: [link]((https://drive.google.com/drive/folders/1NpDayWleyMCoBluBuFV9lpn45B6jFRtH?usp=sharing)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This PR implements the SpaceX Data React app, fulfilling the requirements of the assignment given by the company. The key features and changes included in this PR are:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+###Implemented the landing page layout using React and CSS.
 
-### `npm run eject`
+###Fetched rockets data from the SpaceX API and displayed it in a grid format.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+###Added search functionality to allow users to filter rockets by name.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+###Updated the responsive design of the landing page components to ensure compatibility across different screen sizes.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+###Thanks
